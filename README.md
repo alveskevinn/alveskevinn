@@ -12,5 +12,3 @@
   <div align = "left">  
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=dimasabreu&theme=highcontrast)](https://git.io/streak-stats)
 </div>
-    ![snake gif](https://github.com/alveskevinn/alveskevinn/blob/output/github-contribution-grid-snake.svg)
-</div>
