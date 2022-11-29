@@ -10,5 +10,6 @@
   <img align="left" height="415px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alveskevinn&langs_count=8&theme=vision-friendly-dark&hide_border=true">
 </div>
   <div align = "left">  
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=dimasabreu&theme=highcontrast)](https://git.io/streak-stats)
+    
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=alveskevinn&theme=highcontrast)](https://git.io/streak-stats)
 </div>
