@@ -1,22 +1,35 @@
-<div align='center'>
+<div>
   <h1>
      Hi, My name is <a href="https://www.linkedin.com/in/alveskevinn/">Kevin Alves</a>
   </h1>
+<div align="left">
+  
+- **Currently I am coding in TypeScript!** 😉
+- **I am front-end developer and I intend learn more areas in coding world**🌐
+- **I study Analysis and Systems Development in São Francisco University** 🌔
+  
+  </div>
 </div>
 
-<div align="center">
-  <div align='center'>
-  <img height="194px" src="https://github-readme-stats.vercel.app/api?username=alveskevinn&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
-  <img align="left" height="250px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alveskevinn&langs_count=8&theme=vision-friendly-dark&hide_border=true">
-</div>
+<div class="container">
   
-  
-  <div align = "center">
-  
+ <div>
+  <img height="195px" src="https://github-readme-stats.vercel.app/api?username=alveskevinn&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
+   
+   <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alveskevinn&langs_count=8&theme=vision-friendly-dark">
   
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=alveskevinn&theme=highcontrast)](https://git.io/streak-stats)
   
 </div>
+<div>
+  
+   
+</div>
+  
+</div>
+  
+  
+ 
    <div style="display: inline_block"><br>
   <img align="center" alt="Kevin-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Kevin-TSC" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
