@@ -2,13 +2,7 @@
   <h1>
      Hi, My name is <a href="https://www.linkedin.com/in/alveskevinn/">Kevin Alves</a>
   </h1>
-<div align="left">
-  
-- **Currently I am coding in TypeScript!** 😉
-- **I am front-end developer and I intend learn more areas in coding world**🌐
-- **I study Analysis and Systems Development in São Francisco University** 🌔
-  
-  </div>
+
 </div>
   
  <div>
