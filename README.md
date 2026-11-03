@@ -48,4 +48,4 @@ I build **connected products end to end**: firmware, hardware, cloud and the app
 
 #### Contact
 
-[devskin.com](https://devskin.com) · [contato@devskin.com](mailto:contato@devskin.com) · [LinkedIn](https://www.linkedin.com/in/kevin-pedroso)
+[kevinpedroso.com.br](https://kevinpedroso.com.br) · [devskin.com](https://devskin.com) · [contato@devskin.com](mailto:contato@devskin.com) · [LinkedIn](https://www.linkedin.com/in/kevin-pedroso)
