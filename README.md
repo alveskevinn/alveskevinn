@@ -1,6 +1,6 @@
 ### Hi, I'm Kevin Pedroso 👋
 
-I build **connected products end to end**: firmware, hardware, cloud and the app on top. I'm the founder of **[DevSkin](https://devskin.com)**, in Hortolândia/SP, Brazil.
+I build **connected products end to end**: firmware, hardware, cloud and the app on top. I'm a developer at **[DevSkin](https://devskin.com)**, based in Hortolândia/SP, Brazil.
 
 - **Apps & software:** iOS/Android apps in Flutter, web dashboards and the APIs behind them.
 - **IoT, firmware to cloud:** ESP32 and LoRa devices with OTA, telemetry pipelines, MQTT, alerts.
