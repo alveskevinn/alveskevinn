@@ -18,4 +18,4 @@ Construo **produtos conectados de ponta a ponta**: firmware, hardware, nuvem e o
 
 #### Contato
 
-[devskin.com](https://devskin.com) · [contato@devskin.com](mailto:contato@devskin.com) · [LinkedIn](https://www.linkedin.com/in/kevin-pedroso)
+[kevinpedroso.com.br](https://kevinpedroso.com.br) · [devskin.com](https://devskin.com) · [contato@devskin.com](mailto:contato@devskin.com) · [LinkedIn](https://www.linkedin.com/in/kevin-pedroso)
