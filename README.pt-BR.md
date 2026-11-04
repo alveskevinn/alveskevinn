@@ -1,6 +1,6 @@
 ### Oi, eu sou o Kevin Pedroso 👋
 
-Construo **produtos conectados de ponta a ponta**: firmware, hardware, nuvem e o app por cima. Sou desenvolvedor na **[DevSkin](https://devskin.com)**, em Hortolândia/SP.
+Construo **produtos conectados de ponta a ponta**: firmware, hardware, nuvem e o app por cima. Sou desenvolvedor na **[DevSkin](https://devskin.com)**, em Campinas/SP.
 
 - **Apps e software:** apps iOS/Android em Flutter, dashboards web e as APIs por trás deles.
 - **IoT, do firmware à nuvem:** dispositivos ESP32 e LoRa com OTA, pipelines de telemetria, MQTT e alertas.
